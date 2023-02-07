@@ -1,5 +1,11 @@
-import '@/styles/globals.css'
+import "@/styles/globals.css";
 
 export default function App({ Component, pageProps }) {
-  return <Component {...pageProps} />
+  //state
+
+  //addFavorite
+  //editFavorite
+  //removeFavorite
+
+  return <Component {...pageProps} />;
 }
